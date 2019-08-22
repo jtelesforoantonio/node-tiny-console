@@ -1,0 +1,27 @@
+{
+  "name": "@jtelesforoantonio/tiny-console",
+  "version": "1.0.1",
+  "description": "Tiny console with nodejs",
+  "main": "src/index.js",
+  "keywords": [
+    "tiny",
+    "console",
+    "tiny console",
+    "nodejs",
+    "node",
+    "js",
+    "javascript"
+  ],
+  "author": "Jonathan Telesforo Antonio",
+  "license": "MIT",
+  "files": [
+    "src"
+  ],
+  "dependencies": {
+    "colors": "^1.3.3",
+    "moment": "^2.24.0"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}
