@@ -1,2 +1,2 @@
-const tinyConsole = require('../index');
+const tinyConsole = require('../TinyConsole');
 tinyConsole.init();
